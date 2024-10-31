@@ -1,3 +1,5 @@
+🚨The only thing is that the backend is deployed on a free "Render" resource, and if you do not use the server for 15 minutes, it will turn off, and then the first launch will be a little longer, about 1 - 1.5 minutes🚨
+
 Deployed api - [https://kanban-backend-j2gc.onrender.com]
 
 ## Available endpoints:
