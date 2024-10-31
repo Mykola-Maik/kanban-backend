@@ -2,7 +2,7 @@
 
 Deployed api - [https://kanban-backend-j2gc.onrender.com]
 
-## Tecknologies/libraries that were used:
+## Technologies/libraries that were used:
 
 * Nest.js;
 * MongoDB;
